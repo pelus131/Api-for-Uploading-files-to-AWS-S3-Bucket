@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zOzABaV+O5xDlVKrP4TRGdJXEyv9u9JI7N62Om52Oe4=",
+  "Source": "awsS3Api",
+  "BasePath": "_content/awsS3Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

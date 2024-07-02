@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "awsS3Api", "awsS3Api.csproj", "{8FF0C4FE-C9DB-417A-A20C-9D79686A1A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF0C4FE-C9DB-417A-A20C-9D79686A1A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF0C4FE-C9DB-417A-A20C-9D79686A1A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF0C4FE-C9DB-417A-A20C-9D79686A1A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF0C4FE-C9DB-417A-A20C-9D79686A1A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75798251-F135-4AE1-ACE7-F5E9BBF48BFD}
+	EndGlobalSection
+EndGlobal
